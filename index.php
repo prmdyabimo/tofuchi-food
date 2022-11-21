@@ -320,7 +320,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/members/ihsan.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/members/ihsan.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Muhammad Ihsan M</h4>
                 <span>as a Leader</span>
@@ -336,7 +336,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/members/bimo.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/members/bimo.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Pramudya Bimo P</h4>
                 <span>as a Developer</span>
@@ -352,7 +352,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="member">
-              <div class="pic"><img src="assets/img/members/robiyah.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/members/robiyah.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Robiyah</h4>
                 <span>as a Designer</span>
@@ -368,7 +368,7 @@
 
           <div class="col-lg-6 col-md-6 mt-4">
             <div class="member">
-              <div class="pic"><img src="assets/img/members/bintang.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/members/bintang.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Bintang Prayoga</h4>
                 <span>as a Marketing</span>
@@ -384,7 +384,7 @@
 
           <div class="col-lg-6 col-md-6 mt-4">
             <div class="member">
-              <div class="pic"><img src="assets/img/members/tirta.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/members/tirta.jpg" style="height: 600px; width: 340px;" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Ananda Tirta Riyadi</h4>
                 <span>as a Chef</span>
